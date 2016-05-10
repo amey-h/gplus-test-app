@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510526872175",
+    "project_id": "crucial-cabinet-644"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510526872175:android:326599d5666d4c83",
+        "android_client_info": {
+          "package_name": "org.amey.android.gplustestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510526872175-rdecp0rnraqorqauvt93mhk0gfoo70o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.amey.android.gplustestapp",
+            "certificate_hash": "53B88161EED1BAC6746768ED0417A211D1D26C9C"
+          }
+        },
+        {
+          "client_id": "510526872175-61pno9r83os6avcsfrmoqjnaf233ub7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_NcvwISyUA2pcvVefXr1EEmKbXYO9Vb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
